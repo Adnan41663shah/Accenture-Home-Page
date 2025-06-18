@@ -16,8 +16,8 @@ This project is a **fully responsive landing page** inspired by Accenture's mode
 ## 📸 Preview
 
 ![Hero](./screenshots/Screenshot1.png)
-![second screenshot](screenshots\Screenshot2.png)
-![third screenshot](screenshots\Screenshot3.png)
+![Hero](./screenshots/Screenshot2.png)
+![Hero](./screenshots/Screenshot3.png)
 
 ## 🛠️ Tech Stack
 
